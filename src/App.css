@@ -1,0 +1,29 @@
+
+body {
+  background-color: black;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 1.5rem;
+  background-color: #9B75DA;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #945af2;
+
+}
