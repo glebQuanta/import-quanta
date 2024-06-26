@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https/glebQuanta.github.io/import-quanta/static/css/main.1d155c3d.css",
+    "main.js": "/https/glebQuanta.github.io/import-quanta/static/js/main.8a5da4c3.js",
+    "index.html": "/https/glebQuanta.github.io/import-quanta/index.html",
+    "main.1d155c3d.css.map": "/https/glebQuanta.github.io/import-quanta/static/css/main.1d155c3d.css.map",
+    "main.8a5da4c3.js.map": "/https/glebQuanta.github.io/import-quanta/static/js/main.8a5da4c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d155c3d.css",
+    "static/js/main.8a5da4c3.js"
+  ]
+}
