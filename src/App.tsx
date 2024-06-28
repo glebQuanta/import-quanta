@@ -6,7 +6,7 @@ export const App: React.FC = () => {
   const tokenAddress = '0xdD6913cb8EAbee7cF3d26B1D396E2e5c30cf5482';
   const tokenSymbol = 'QUANTA';
   const tokenDecimals = 12;
-  const tokenImage = 'https://bscscan.com/token/images/quantatech_32.png';
+  const tokenImage = 'https://raw.githubusercontent.com/QuantaTechCrypto/QUANTA/main/quanta_256.png';
 
   async function addToken() {
 
