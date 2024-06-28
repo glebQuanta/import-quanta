@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/import-quanta/static/css/main.1d155c3d.css",
-    "main.js": "/import-quanta/static/js/main.8a5da4c3.js",
+    "main.js": "/import-quanta/static/js/main.679c44c8.js",
     "index.html": "/import-quanta/index.html",
     "main.1d155c3d.css.map": "/import-quanta/static/css/main.1d155c3d.css.map",
-    "main.8a5da4c3.js.map": "/import-quanta/static/js/main.8a5da4c3.js.map"
+    "main.679c44c8.js.map": "/import-quanta/static/js/main.679c44c8.js.map"
   },
   "entrypoints": [
     "static/css/main.1d155c3d.css",
-    "static/js/main.8a5da4c3.js"
+    "static/js/main.679c44c8.js"
   ]
 }
